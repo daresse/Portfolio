@@ -6,7 +6,7 @@ Hi! I'm Thomas Hernandez, a cybersecurity enthusiast and aspiring web penetratio
 
 ##  Skills & Tools
 
-- **Web Security** : OWASP TOP10, preparing CWES
+- **Web Security** : OWASP TOP10, preparing CWES HTB certification (Certified Web Exploitation Specialist)
 - **Networking & Protocols** HTTP(S), DNS, TCP, IP, VHosting 
 - **Tools**: Burp Suite, Nmap, ffuf, zapproxy, gobuster, dirbuster, whois, dig,   
 - **Programming / Scripting**: Python, Bash, JavaScript (daily usage of linux as my personnal OS)
@@ -26,7 +26,7 @@ Hi! I'm Thomas Hernandez, a cybersecurity enthusiast and aspiring web penetratio
 
 #### Bug Bounty / Write-ups
 - coming soon
-  
+- 
 ---
 
 ##  Contact
